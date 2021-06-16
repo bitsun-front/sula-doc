@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2021-06-16 22:11:31
- * @LastEditTime: 2021-06-16 22:19:27
+ * @LastEditTime: 2021-06-16 22:20:37
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \sula-doc\.umirc.ts
@@ -10,7 +10,7 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   title: 'sula-doc',
-  plublicPath: '/sula-doc/',
+  publicPath: '/sula-doc/',
   base: '/sula-doc/',
   history: {
     type: 'hash',
